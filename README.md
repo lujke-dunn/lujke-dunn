@@ -4,10 +4,10 @@ Hi there! I'm Luke, a university student on a mission to become a full stack dev
 
 ## About Me
 
-🎓 Currently pursuing my degree in Computer Science at University of Wollongong
-💻 Passionate about coding and eager to learn new technologies
-🌟 Aspiring full stack developer with a focus on TailwindCSS, MongoDB, Spring Boot, and React
-🌐 Dedicated to creating innovative and user-friendly web applications
+- 🎓 Currently pursuing my degree in Computer Science at University of Wollongong
+- 💻 Passionate about coding and eager to learn new technologies
+- 🌟 Aspiring full stack developer with a focus on TailwindCSS, MongoDB, Spring Boot, and React
+- 🌐 Dedicated to creating innovative and user-friendly web applications
 
 Skills
 
