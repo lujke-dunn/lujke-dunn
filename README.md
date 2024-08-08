@@ -10,7 +10,7 @@ About Me
 
 Skills
 
-Front-end: HTML, CSS, JavaScript, React, TailwindCSS
-Back-end: Java, Spring Boot
-Databases: MongoDB
-Version Control: Git, GitHub
+- Front-end: HTML, CSS, JavaScript, React, TailwindCSS
+- Back-end: Java, Express, Spring Boot
+- Databases: MongoDB
+- Version Control: Git, GitHub
