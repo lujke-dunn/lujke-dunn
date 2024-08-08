@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**lujke-dunn/lujke-dunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Luke, a university student on a mission to become a full stack developer specializing in modern web technologies. Join me as I embark on this exciting journey of learning and growth in the world of web development.
+About Me
 
-Here are some ideas to get you started:
+🎓 Currently pursuing my degree in [Your Major] at [Your University]
+💻 Passionate about coding and eager to learn new technologies
+🌟 Aspiring full stack developer with a focus on TailwindCSS, MongoDB, Spring Boot, and React
+🌐 Dedicated to creating innovative and user-friendly web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+Front-end: HTML, CSS, JavaScript, React, TailwindCSS
+Back-end: Java, Spring Boot
+Databases: MongoDB
+Version Control: Git, GitHub
