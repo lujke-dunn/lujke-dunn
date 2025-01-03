@@ -1,17 +1,12 @@
 ## Hi there 👋
 
-Hi there! I'm Luke, a university student on a mission to become a full stack developer specializing in modern web technologies. Join me as I embark on this exciting journey of learning and growth in the world of web development.
+Hi there! I'm Luke, a university student on a mission to become a decent dev!
 
 ## About Me
 
-- 🎓 Currently pursuing my degree in Computer Science at University of Wollongong
+- 🎓 In my last semester of Computer Science
 - 💻 Passionate about coding and eager to learn new technologies
-- 🌟 Aspiring full stack developer with a focus on TailwindCSS, MongoDB, Spring Boot, and React
-- 🌐 Dedicated to creating innovative and user-friendly web applications
+- 🌐 I love creating stuff!
 
-Skills
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lujke-dunn)](https://git.io/streak-stats)
 
-- Front-end: HTML, CSS, JavaScript, React, TailwindCSS
-- Back-end: Java, Express, Spring Boot
-- Databases: MongoDB
-- Version Control: Git, GitHub
