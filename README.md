@@ -9,4 +9,6 @@ Hi there! I'm Luke, a university student on a mission to become a decent dev!
 - 🌐 I love creating stuff!
 
 
-          [![GitHub Streak](https://streak-stats.demolab.com/?user=lujke-dunn)](https://git.io/streak-stats)
+
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=lujke-dunn)](https://git.io/streak-stats)
+   
